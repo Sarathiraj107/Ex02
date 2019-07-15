@@ -1,6 +1,12 @@
+/****
+ * to create a converter application
+ * @author harsha
+ * reddyharsha298@gmail.com
+ */
 package converterapp;
 
 	import java.util.Scanner;
+
 
 	import converterlibrary.currency_converter;
 	import converterlibrary.distance_converter;

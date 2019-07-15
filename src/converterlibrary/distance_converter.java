@@ -1,5 +1,10 @@
 package converterlibrary;
-
+/****
+ * 
+ * @author harsha
+ *to create a distanceconverter
+ *reddyharsha298@gmail.com
+ */
 public class distance_converter {
 	public static double Meter_To_Kilometer(double Meter)
 	{

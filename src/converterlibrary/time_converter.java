@@ -1,5 +1,10 @@
+/****
+ * 
+ * @author harsha
+ *to create a timeconverter
+ *reddyharsha298@gmail.com
+ */
 package converterlibrary;
-
 public class time_converter {
 	public static double Hour_To_Minute(double Hour)
 	{
